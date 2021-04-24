@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My Name is **Bilal**
+
 <!--
 **bilal8492/bilal8492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilal8492)](https://github.com/bilal8492)
