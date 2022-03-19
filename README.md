@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 -->
 
 [![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilal8492)](https://github.com/bilal8492)
+
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/bilal8492/bilal8492/output/github-contribution-grid-snake.svg)
