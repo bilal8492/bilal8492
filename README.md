@@ -42,4 +42,9 @@ I've spent 5+ years building, modernizing and maintaining production iOS and And
 
 ## 📊 GitHub stats
 
-[![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilal8492&show_icons=true&hide_border=true)](https://github.com/bilal8492)
+<a href="https://github.com/bilal8492">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bilal8492&theme=github-dark-blue&hide_border=true" />
+    <img alt="Bilal's GitHub contribution streak" src="https://streak-stats.demolab.com?user=bilal8492&hide_border=true" />
+  </picture>
+</a>
