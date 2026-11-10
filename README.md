@@ -37,7 +37,7 @@ I've spent 5+ years building, modernizing and maintaining production iOS and And
 
 ## 🧩 Open source projects
 
-- **[ReelGuard](https://github.com/bilal8492/reelguard)** ([website](https://bilalansari.in/reelguard/)): an Android app that counts the Instagram Reels and YouTube Shorts you watch each day and enforces a daily limit. Everything stays on the device. *Kotlin · Accessibility Service*
+- **[ReelGuard](https://github.com/bilal8492/reelguard)** ([website](https://bilalansari.in/reelguard/)): an Android app that counts the Instagram Reels and YouTube Shorts you watch each day and enforces a daily limit. What you watch and your counts stay on the device; anonymous usage stats can be switched off. *Kotlin · Accessibility Service*
 - **[UpInstall](https://github.com/bilal8492/upinstall)** ([website](https://bilalansari.in/upinstall/)): a graphical front end for winget on Windows. It scans for updates, lets you pick apps, and runs or copies the commands. *C# · .NET 9 · WinUI 3*
 
 ## 📊 GitHub stats
